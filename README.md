@@ -1,5 +1,4 @@
 <h1>✨ Sobre mim ✨</h1>
-<hr>
 <p>Olá, meu nome é Italo Ruann!</p>
 <p>Sou um estudante formado em Análise e Desenvolvimento de Sistemas, apaixonado por programação. Sou bastante curioso e tenho facilidade em aprender novas tecnologias!</p>
 
