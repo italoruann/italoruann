@@ -54,7 +54,7 @@
 </div>
 <h2>💻 Sistema operacional atual:</h2>
 <div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 <h2>📚 Onde estudo:</h2>
