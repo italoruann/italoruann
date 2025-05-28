@@ -49,9 +49,10 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 <h2>💻 Sistema operacional que uso:</h2>
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/mac%20OS-000000?style=for-the-badge&logo=apple&logoColor=white">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/mac%20OS%E1%B4%BF-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
 <h2>📚 Onde estudo:</h2>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
